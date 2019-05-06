@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+main .row{
+    margin-bottom: 20px;
+}
+
+header{
+    background-color: #eebb44;
+    margin-bottom: 40px;
+}
+
+h1{
+    line-height: 1;
+    margin-bottom: 0;
+}
+
+header p{
+    padding:0;
+    margin-top: 0.5em;
+}
+
+.item{
+    border: 1px solid rgba(128, 128, 128, 0.19);
+    margin-bottom: 20px;
+    display: block;
+}
+
+.profile-picture{
+    width:100%;
+}
+
+.card-info{
+    padding: 20px;
+}
+
+.name{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.description{
+    margin-top: 10px;
+}
+
